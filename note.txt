@@ -1,0 +1,19 @@
+Dati display
+
+DollaTek 2.8 Pollici ILI9341 240x320 SPI TFT LCD Display Touch Panel SPI 
+controller touch XPT2046
+
+Uso display:
+
+https://www.hackster.io/nash-ali/using-the-ili9341-tft-xpt2046-touch-with-esp32-arduino-ac8eed
+richiede arduino
+
+
+https://www.hackster.io/nash-ali/using-esp-idf-with-the-ili9341-tft-xpt2046-touch-a04e77
+esp idf
+
+https://www.codeproject.com/Articles/5301793/GFX-Sidebar-Inside-the-ILI9341-Display-Driver-on-t
+idf
+
+https://github.com/loboris/ESP32_TFT_library
+idf
