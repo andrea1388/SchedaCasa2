@@ -17,3 +17,5 @@ idf
 
 https://github.com/loboris/ESP32_TFT_library
 idf
+
+https://github.com/tuupola/hagl_esp_mipi
